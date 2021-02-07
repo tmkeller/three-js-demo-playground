@@ -1,0 +1,23 @@
+{
+  "name": "three-js-demo-playground",
+  "version": "1.0.0",
+  "description": "Messing around with Three.js in preparation for Project 3 in the UW Winter 2020/21 coding bootcamp that will incorporate in-browser 3D elements!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmkeller/three-js-demo-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmkeller/three-js-demo-playground/issues"
+  },
+  "homepage": "https://github.com/tmkeller/three-js-demo-playground#readme",
+  "dependencies": {
+    "three": "^0.125.2"
+  }
+}
